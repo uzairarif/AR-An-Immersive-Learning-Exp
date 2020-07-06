@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1712594896
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: android.unity3d
+      Dependencies: {}

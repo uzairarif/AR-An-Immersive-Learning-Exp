@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="20200530_130203" size="0.100000 0.122551" />
+    <ImageTarget name="kblack" size="0.050000 0.079228" />
+    <ImageTarget name="jblack" size="0.050000 0.075383" />
+    <ImageTarget name="4black" size="0.050000 0.075563" />
+  </Tracking>
+</QCARConfig>

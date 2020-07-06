@@ -1,0 +1,4 @@
+#Mon Jul 06 13:25:56 PKT 2020
+base.0=C\:\\Users\\sande\\Documents\\Unity\\AR-Education\\Temp\\gradleOut\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

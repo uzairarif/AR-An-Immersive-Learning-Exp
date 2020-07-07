@@ -8,7 +8,7 @@ This project consists of 2 major projects:
 1) MakeBundle -> To make AssetBundles of Models
 2) AR-Education latest -> Unity Mobile App
 
-##Project Flow
+## Project Flow
 
 1) The user must first make AssetBundles for each model that the user wishes to augment on an image Target.
 2) The making of AssetBundles can be accomplished using MakeBundle project.
@@ -16,7 +16,7 @@ This project consists of 2 major projects:
 4) The Unity Mobile App will then download the Assets in the application by sending REST requests to FTP Server.
 5) After downloading the assetbundles in local storage they are then utlized by the Unity Mobile App to augment the models on an Image Target
 
-##ToRun
+## ToRun
 
 To run both projects download and install Unity 2018.x.xxx and then open the projects using open feature of the Unity.
 
